@@ -1,0 +1,11 @@
+Package: EDAplots
+Type: Package
+Title: It will give all possible plots needed for Exploratory Data Analysis
+Version: 0.1.0
+Author: Tejas Vartak
+Maintainer: The package maintainer <tvtejas@gmail.com>
+Description: Provide dataframe, vect=c(1,2,...)(optional) for selective columns, dir=".../EDA"(optional) (if you want to save plots in different directory than the working directory) 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
