@@ -20,3 +20,6 @@ plots will be directly saved in the given directory
 Provide Dataframe along with list of column number in the form of vector and also provide directory if you want to save plots in specific directory
 (x,vect=c(1,2,3,..), dir="../EDAplots")
 }
+\author{
+Tejas Vartak, Shivani Goyal
+}
