@@ -6,6 +6,7 @@
 #'@param vect= list of column number to be pass(if not provided, whole dataset will be taken into consideration)
 #'@param dir= "provide valid path to save plots" (if not provided, plots will be saved in working directory)
 #'@return plots will be directly saved in the given directory
+#'@author Tejas Vartak, Shivani Goyal
 #'@export
 
 
